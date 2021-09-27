@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Dad.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dad idle dance BLACK LINE instance 10000" x="0" y="0" width="207" height="365" frameX="0" frameY="-3" frameWidth="207" frameHeight="368"/>
+	<SubTexture name="Dad idle dance BLACK LINE instance 10001" x="0" y="0" width="207" height="365" frameX="0" frameY="-3" frameWidth="207" frameHeight="368"/>
+	<SubTexture name="Dad idle dance BLACK LINE instance 10002" x="207" y="0" width="204" height="364" frameX="-1" frameY="-4" frameWidth="207" frameHeight="368"/>
+	<SubTexture name="Dad idle dance BLACK LINE instance 10003" x="207" y="0" width="204" height="364" frameX="-1" frameY="-4" frameWidth="207" frameHeight="368"/>
+	<SubTexture name="Dad idle dance BLACK LINE instance 10004" x="411" y="0" width="204" height="365" frameX="-1" frameY="-3" frameWidth="207" frameHeight="368"/>
+	<SubTexture name="Dad idle dance BLACK LINE instance 10005" x="411" y="0" width="204" height="365" frameX="-1" frameY="-3" frameWidth="207" frameHeight="368"/>
+	<SubTexture name="Dad idle dance BLACK LINE instance 10006" x="411" y="0" width="204" height="365" frameX="-1" frameY="-3" frameWidth="207" frameHeight="368"/>
+	<SubTexture name="Dad idle dance BLACK LINE instance 10007" x="411" y="0" width="204" height="365" frameX="-1" frameY="-3" frameWidth="207" frameHeight="368"/>
+	<SubTexture name="Dad idle dance BLACK LINE instance 10008" x="411" y="0" width="204" height="365" frameX="-1" frameY="-3" frameWidth="207" frameHeight="368"/>
+	<SubTexture name="Dad idle dance BLACK LINE instance 10009" x="411" y="0" width="204" height="365" frameX="-1" frameY="-3" frameWidth="207" frameHeight="368"/>
+	<SubTexture name="Dad idle dance BLACK LINE instance 10010" x="411" y="0" width="204" height="365" frameX="-1" frameY="-3" frameWidth="207" frameHeight="368"/>
+	<SubTexture name="Dad idle dance BLACK LINE instance 10011" x="411" y="0" width="204" height="365" frameX="-1" frameY="-3" frameWidth="207" frameHeight="368"/>
+	<SubTexture name="Dad idle dance BLACK LINE instance 10012" x="411" y="0" width="204" height="365" frameX="-1" frameY="-3" frameWidth="207" frameHeight="368"/>
+	<SubTexture name="Dad idle dance BLACK LINE instance 10013" x="411" y="0" width="204" height="365" frameX="-1" frameY="-3" frameWidth="207" frameHeight="368"/>
+	<SubTexture name="Dad idle dance BLACK LINE instance 10014" x="615" y="0" width="203" height="368" frameX="-2" frameY="0" frameWidth="207" frameHeight="368"/>
+	<SubTexture name="Dad idle dance BLACK LINE instance 10015" x="615" y="0" width="203" height="368" frameX="-2" frameY="0" frameWidth="207" frameHeight="368"/>
+	<SubTexture name="Dad idle dance BLACK LINE instance 10016" x="818" y="0" width="202" height="368" frameX="-3" frameY="0" frameWidth="207" frameHeight="368"/>
+	<SubTexture name="Dad idle dance BLACK LINE instance 10017" x="818" y="0" width="202" height="368" frameX="-3" frameY="0" frameWidth="207" frameHeight="368"/>
+	<SubTexture name="Dad idle dance BLACK LINE instance 10018" x="0" y="368" width="202" height="368" frameX="-3" frameY="0" frameWidth="207" frameHeight="368"/>
+	<SubTexture name="Dad idle dance BLACK LINE instance 10019" x="0" y="368" width="202" height="368" frameX="-3" frameY="0" frameWidth="207" frameHeight="368"/>
+	<SubTexture name="Dad idle dance BLACK LINE instance 10020" x="0" y="368" width="202" height="368" frameX="-3" frameY="0" frameWidth="207" frameHeight="368"/>
+	<SubTexture name="Dad idle dance BLACK LINE instance 10021" x="0" y="368" width="202" height="368" frameX="-3" frameY="0" frameWidth="207" frameHeight="368"/>
+	<SubTexture name="Dad idle dance BLACK LINE instance 10022" x="0" y="368" width="202" height="368" frameX="-3" frameY="0" frameWidth="207" frameHeight="368"/>
+	<SubTexture name="Dad idle dance BLACK LINE instance 10023" x="0" y="368" width="202" height="368" frameX="-3" frameY="0" frameWidth="207" frameHeight="368"/>
+	<SubTexture name="Dad idle dance BLACK LINE instance 10024" x="0" y="368" width="202" height="368" frameX="-3" frameY="0" frameWidth="207" frameHeight="368"/>
+	<SubTexture name="Dad idle dance BLACK LINE instance 10025" x="0" y="368" width="202" height="368" frameX="-3" frameY="0" frameWidth="207" frameHeight="368"/>
+	<SubTexture name="Dad idle dance BLACK LINE instance 10026" x="0" y="368" width="202" height="368" frameX="-3" frameY="0" frameWidth="207" frameHeight="368"/>
+	<SubTexture name="Dad idle dance BLACK LINE instance 10027" x="0" y="368" width="202" height="368" frameX="-3" frameY="0" frameWidth="207" frameHeight="368"/>
+</TextureAtlas>

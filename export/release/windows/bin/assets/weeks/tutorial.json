@@ -1,0 +1,34 @@
+{
+	"storyName": "Mineshaft Mischief",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Mineshaft",
+			"anna",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Coin-Op",
+			"anna",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Tutorial"
+}
